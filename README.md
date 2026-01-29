@@ -12,7 +12,13 @@
 
 ## Programas que he utilizado
 ---
+<p align="center">
+
 <img width="75" height="75" alt="Visual_Studio_Code_1 35_icon svg" src="https://github.com/user-attachments/assets/22a681ae-5a7b-42f9-8866-824795a132e7" />
+<img width="75" height="75" alt="Visual_Studio_Icon_2022 svg" src="https://github.com/user-attachments/assets/45def1bb-031b-48e8-bb07-7312c92a6fb5" />
+</p>
+
+
 
 
 
