@@ -7,7 +7,7 @@ Me interesa el desarrollo de software y seguir mejorando mis habilidades a trav�
 ## 🛠️ Tecnologías y lenguajes con los que he trabajado
 
 <p align="center">
-  <img src="URL_JAVA" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
+  <img src="https://github.com/user-attachments/assets/337e5a71-780a-46cf-b57f-d9740ec3d11f" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
   <img src="URL_CSHARP" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
   <img src="URL_PYTHON" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
   <img src="URL_PHP" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
