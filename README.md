@@ -1,10 +1,10 @@
-## 👨‍💻 Sobre mí
+## Sobre mí
 Soy un programador en formación, actualmente cursando el **segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 Me interesa el desarrollo de software y seguir mejorando mis habilidades a través de proyectos académicos y personales.
 
 ---
 
-## 🛠️ Tecnologías y lenguajes con los que he trabajado
+## Tecnologías y lenguajes con los que he trabajado
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/337e5a71-780a-46cf-b57f-d9740ec3d11f" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
@@ -17,7 +17,7 @@ Me interesa el desarrollo de software y seguir mejorando mis habilidades a trav�
 
 ---
 
-## 🧰 Programas que he utilizado
+## Programas que he utilizado
 
 
 <p align="center">
@@ -28,8 +28,9 @@ Me interesa el desarrollo de software y seguir mejorando mis habilidades a trav�
 
 ---
 
-## 📫 Contacto
-📧 **Email:** [lugonpa10@gmail.com](mailto:lugonpa10@gmail.com)
+## Contacto
+**Email:** [lugonpa10@gmail.com](mailto:lugonpa10@gmail.com)
+
 
 
 
