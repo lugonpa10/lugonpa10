@@ -13,22 +13,17 @@ Me interesa el desarrollo de software y seguir mejorando mis habilidades a travÃ
   <img src="https://github.com/user-attachments/assets/91289546-a980-4c91-bd8f-53e3d3a29494" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
   <img src="https://github.com/user-attachments/assets/2fc342a7-1777-41ff-9b07-97a06ed211b0" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
 
-
 </p>
-<img src="https://github.com/user-attachments/assets/b1cab0e9-7f40-46b1-bf1d-ffe05e5113a9" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
-<img src="https://github.com/user-attachments/assets/ff375b71-c86a-4e90-8fd9-35c9240222a9" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
-<img src="https://github.com/user-attachments/assets/9d87f419-ebe9-4725-9e50-c45474b004da" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
 
 ---
 
 ## ğŸ§° Programas que he utilizado
 
 
-
 <p align="center">
-  <img src="URL_VSCODE" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
-  <img src="URL_VISUAL_STUDIO_2022" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
-  <img src="URL_ANDROID_STUDIO" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
+  <img src="https://github.com/user-attachments/assets/b1cab0e9-7f40-46b1-bf1d-ffe05e5113a9" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
+  <img src="https://github.com/user-attachments/assets/ff375b71-c86a-4e90-8fd9-35c9240222a9" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
+  <img src="https://github.com/user-attachments/assets/9d87f419-ebe9-4725-9e50-c45474b004da" style="width:75px;height:75px;object-fit:contain;margin:6px;" />
 </p>
 
 ---
