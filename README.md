@@ -30,6 +30,7 @@ Me interesa el desarrollo de software y seguir mejorando mis habilidades a trav√
 
 ## Contacto
 **Email:** [lugonpa10@gmail.com](mailto:lugonpa10@gmail.com)
+**LinkedIn:** [Lucas Gonz√°lez Parada](https://www.linkedin.com/in/lucas-gonz%C3%A1lez-5252593a7/)
 
 
 
