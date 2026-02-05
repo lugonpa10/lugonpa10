@@ -28,6 +28,11 @@ Me interesa el desarrollo de software y seguir mejorando mis habilidades a trav√
 
 ---
 
+## Proyectos Interesantes
+- F1HUB: [Repositorio](https://github.com/lugonpa10/F1HUB.git)
+
+---
+
 ## Contacto
 **Email:** [lugonpa10@gmail.com](mailto:lugonpa10@gmail.com)
 
