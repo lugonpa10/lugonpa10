@@ -29,7 +29,7 @@ Me interesa el desarrollo de software y seguir mejorando mis habilidades a trav√
 ---
 
 ## Proyectos Interesantes
-- F1HUB: [Repositorio](https://github.com/lugonpa10/F1HUB.git)
+F1HUB: [Repositorio](https://github.com/lugonpa10/F1HUB.git)
 
 ---
 
